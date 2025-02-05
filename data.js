@@ -148,8 +148,8 @@ var APP_DATA = {
           "target": "0-225-1"
         },
         {
-          "yaw": -2.119382347132442,
-          "pitch": 0.6028708106646583,
+          "yaw": -2.1178745521170406,
+          "pitch": 0.6036975710668813,
           "rotation": 0,
           "target": "9-225-11"
         }
@@ -596,6 +596,12 @@ var APP_DATA = {
           "pitch": 0.3709336582944829,
           "rotation": 0,
           "target": "9-225-11"
+        },
+        {
+          "yaw": 1.2117591360706008,
+          "pitch": 0.08716195304397445,
+          "rotation": 0,
+          "target": "16-225-19"
         }
       ],
       "infoHotspots": []
@@ -692,6 +698,12 @@ var APP_DATA = {
           "pitch": 0.236141701537818,
           "rotation": 0,
           "target": "11-225-14"
+        },
+        {
+          "yaw": -0.39081350984001695,
+          "pitch": 0.06250878120348169,
+          "rotation": 0,
+          "target": "16-225-19"
         }
       ],
       "infoHotspots": []
@@ -808,9 +820,9 @@ var APP_DATA = {
       ],
       "faceSize": 2976,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -3.0000174759755716,
+        "pitch": 0.7408656828827898,
+        "fov": 1.505693596128477
       },
       "linkHotspots": [
         {
@@ -1000,11 +1012,24 @@ var APP_DATA = {
       ],
       "faceSize": 2976,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -3.0458658838244155,
+        "pitch": -0.21048033920805764,
+        "fov": 1.1993910602584346
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -2.7824455056641444,
+          "pitch": -0.08198180872215843,
+          "rotation": 0,
+          "target": "0-225-1"
+        },
+        {
+          "yaw": 2.7913110865969877,
+          "pitch": -0.05763719663454836,
+          "rotation": 0,
+          "target": "15-225-18"
+        }
+      ],
       "infoHotspots": []
     }
   ],
